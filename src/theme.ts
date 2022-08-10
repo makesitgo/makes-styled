@@ -1,4 +1,4 @@
-import { Breakpoint } from '../commons'
+import { Breakpoint } from './commons'
 
 // based on https://system-ui.com/theme
 const theme = {
